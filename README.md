@@ -45,7 +45,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhumi-singh&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
