@@ -1,7 +1,7 @@
 # Hi there, I'm Bhumi Singh! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8C4&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40+RCOEM+%2727;Web+Developer;Java+%7C+JavaScript+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8C4&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40+RCOEM+%2727;Web+Developer;Java+%7C+MERN+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
